@@ -10,7 +10,7 @@ Checkout different tags to go through example of different react concepts
 | S4L28         | Component Props                               |
 | S4L27         | Nesting components                            |
 | S4L26         | Add new react component                       |
-| S4L25         | javascripts classes part 2: extends keyword   |
+| S4L25         | javascript classes part 2: extends keyword    |
 | S4L24         | Classes in javascript ES6 part 1              |
 | S3L21         | exercise for previous sections                |
 | S3L20         | Picking an Option                             |

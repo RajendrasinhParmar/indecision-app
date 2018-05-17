@@ -1,6 +1,10 @@
 # indecision-app
 Demo repository for react examples
 
+command to build example
+```
+babel src/app.js --out-file=public/scripts/app.js --presets=env,react
+```
 Checkout different tags to go through example of different react concepts
 
 | Tag           | Example                                       |
